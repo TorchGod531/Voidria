@@ -2,7 +2,7 @@
 
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
     <PropertyGroup>
-        <SteamFolder>D:\steam</SteamFolder>
+        <SteamFolder>C:\Program Files (x86)\Steam</SteamFolder>
         <GameFolder>$(SteamFolder)\steamapps\common\OxygenNotIncluded\OxygenNotIncluded_Data\Managed</GameFolder>
         <ModFolder>$(HOME)\Documents\Klei\OxygenNotIncluded\mods\Dev</ModFolder>
     </PropertyGroup>
